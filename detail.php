@@ -12,7 +12,9 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#home">GogoAnime</a>
+      <a class="navbar-brand" href="#">
+    <img src="gambar/logo.png" width="90" height="35" class="d-inline-block align-top" alt="">
+  </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -32,18 +34,22 @@
       </div>
     </nav>
     <!-- Navbar End -->
+
     <div class="row">
     <div class="col-7">
     <div class="card">
-              <img class="card-img-top" src="..." alt="Card image cap">
+              <img class = "img-responsive" src="One-piece.jpg" alt="Card image cap" width="400" height="500">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                
               </div>
             </div>
     </div>
     <div class="col-5">
     <div class="card">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">deskripsi</p>
+                <p class="card-text">genre</p>
+                <p class="card-text">release</p>
+                <p class="card-text">status</p>
               </div>
     </div>
   </div>
